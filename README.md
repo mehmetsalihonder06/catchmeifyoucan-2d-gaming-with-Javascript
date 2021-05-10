@@ -9,7 +9,15 @@ You dont need to install project. Project work on a web site.
 
 ## HowCanIPlay
  Firstly you have to reflesh the page for game opening.
+ ![Deer2](Ekran%20Görüntüsü%20(138).png)
  
+ Then you have 0 score start of game.
+ ![Deer2](Ekran%20Görüntüsü%20(139).png)
+ 
+ When you catch the deer you get scores.
+ 
+ ![Deer2](Ekran%20Görüntüsü%20(140).png)
+
 ## Built With
 
 *[JavaScript](https://www.w3schools.com/js/default.asp)<br/>
